@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @JosRmrz
 - 👀 Soy estudiante de Ing. electrica electronica...
 - 🌱 I’m currently learning muchas cosas geniales entre ellas programacion....
-JosRmrz/JosRmrz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+JosRmrz/JosRmrz
